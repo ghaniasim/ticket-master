@@ -12,8 +12,7 @@ There are some conditions for creating an event such as; An event name should be
 
 ### Demo Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="images/youtube.jpg" 
+<a href="https://youtu.be/wdCbV4JdvKQ" target="_blank"><img src="images/youtube.jpg" 
 alt="youtube link" width="240" height="180" border="10" /></a>
 
 ### How to build a project

@@ -68,6 +68,7 @@ alt="youtube link" width="240" height="180" border="10" /></a>
 #### Limitations
 * Shortcomings in front end.<br/>
   * Front end is only desinged for a success path since this project is a demonstration of backend skills.<br/>
+  * No error handling at the front end.
   
 * Shortcomings in back end.<br/>
   * Not all data validations added. Just a few to demonstrate skills e.g;<br/>
